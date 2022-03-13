@@ -86,7 +86,6 @@ const Remote = (function() {
         });
     }
 
-
     return {
           findAllBooks, createBook, findBookById,createCustomer,findAllCustomers,orderBook,findAllOrdersForCustomer,returnBook,findAllPendingOrdersForCustomer,findAllFinishedOrdersForCustomer
     }
